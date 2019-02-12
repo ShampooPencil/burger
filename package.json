@@ -1,0 +1,27 @@
+{
+  "name": "homework12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShampooPencil/burger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShampooPencil/burger/issues"
+  },
+  "homepage": "https://github.com/ShampooPencil/burger#readme"
+}
